@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417965050 source:/home/edson/Documents/codeblock/Tree/main.cpp
+	<iostream>
+	<stdexcept>
+	<assert.h>
+
